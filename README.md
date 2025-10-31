@@ -23,8 +23,13 @@
   <a href="https://www.linkedin.com/in/ananya-verma-2468" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="mailto:ananyaverma2468@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/IGLxVerma" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=IGLxVerma&label=Profile%20views&color=0e75b6&style=flat"/>
   </a>
 </p>
 
@@ -154,14 +159,32 @@ _May 2021 - July 2021_
   <a href="https://github.com/IGLxVerma/UBER_CLONE" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=IGLxVerma&repo=UBER_CLONE&theme=tokyonight&hide_border=true" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/IGLxVerma/Voting-DApp" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=IGLxVerma&repo=Voting-DApp&theme=tokyonight&hide_border=true" />
   </a>
-</p>
-<p align="center">
+  &nbsp;&nbsp;
   <a href="https://github.com/IGLxVerma/PasswordGenerator" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=IGLxVerma&repo=PasswordGenerator&theme=tokyonight&hide_border=true" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/IGLxVerma/ChatApp" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IGLxVerma&repo=ChatApp&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/IGLxVerma/UBER_CLONE" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IGLxVerma&repo=UBER_CLONE&theme=tokyonight&hide_border=true" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/IGLxVerma/Voting-DApp" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IGLxVerma&repo=Voting-DApp&theme=tokyonight&hide_border=true" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/IGLxVerma/PasswordGenerator" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IGLxVerma&repo=PasswordGenerator&theme=tokyonight&hide_border=true" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/IGLxVerma/ChatApp" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=IGLxVerma&repo=ChatApp&theme=tokyonight&hide_border=true" />
   </a>
