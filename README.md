@@ -1,3 +1,5 @@
+# Profile README
+
 <p align="center">
   <img src="https://media.tenor.com/nzouT6uufQ0AAAAj/peach-goma.gif" alt="Hello" width="200" />
 </p>
@@ -20,12 +22,8 @@
 <!-- Socials -->
 <h3 align="center">Connect with me 🤝</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/ananya-verma-2468" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ananyaverma2468@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-verma-2468)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananyaverma2468@gmail.com)
 </p>
 
 <h2 align="center">🧭 What I Do</h2>
@@ -80,7 +78,7 @@ const ananyaVerma = {
 };
 ```
 
-<h2>� Professional Experience</h2>
+<h2>🏢 Professional Experience</h2>
 
 ### Software Development Engineer - Amazon Web Services (AWS)
 
@@ -151,18 +149,10 @@ _May 2021 - July 2021_
 <!-- Featured Projects -->
 <h2 align="center">🚀 Featured Projects</h2>
 <p align="center">
-  <a href="https://github.com/IGLxVerma/UBER_CLONE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IGLxVerma&repo=UBER_CLONE&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/IGLxVerma/Voting-DApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IGLxVerma&repo=Voting-DApp&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/IGLxVerma/PasswordGenerator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IGLxVerma&repo=PasswordGenerator&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/IGLxVerma/ChatApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IGLxVerma&repo=ChatApp&theme=tokyonight&hide_border=true" />
-  </a>
+  [![UBER_CLONE](https://github-readme-stats.vercel.app/api/pin/?username=IGLxVerma&repo=UBER_CLONE&theme=tokyonight&hide_border=true)](https://github.com/IGLxVerma/UBER_CLONE)
+  [![Voting-DApp](https://github-readme-stats.vercel.app/api/pin/?username=IGLxVerma&repo=Voting-DApp&theme=tokyonight&hide_border=true)](https://github.com/IGLxVerma/Voting-DApp)
+  [![PasswordGenerator](https://github-readme-stats.vercel.app/api/pin/?username=IGLxVerma&repo=PasswordGenerator&theme=tokyonight&hide_border=true)](https://github.com/IGLxVerma/PasswordGenerator)
+  [![ChatApp](https://github-readme-stats.vercel.app/api/pin/?username=IGLxVerma&repo=ChatApp&theme=tokyonight&hide_border=true)](https://github.com/IGLxVerma/ChatApp)
 </p>
 
 <h2 align="center">📂 Key Projects</h2>
@@ -210,7 +200,7 @@ _May 2021 - July 2021_
 - RESTful API integration with existing systems
 
 <!-- GitHub Stats -->
-<h2 align="center">� GitHub Statistics</h2>
+<h2 align="center">📊 GitHub Statistics</h2>
 <p align="center">
   <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=IGLxVerma&theme=tokyonight&hide_border=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=IGLxVerma&show_icons=true&theme=tokyonight&hide_border=true" />
